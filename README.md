@@ -1,69 +1,87 @@
 # Web Pure Tools
 
-> A bilingual product showcase for practical PDF, image, OCR, text, email and accessibility tools.
+> **Privacy by design.** Your files and content are processed directly in your browser and are never uploaded for processing.
 
 [Visit Web Pure Tools](https://webpuretools.com)
 
-<img width="2032" height="701" alt="clipboard" src="https://github.com/user-attachments/assets/1597de43-e857-432d-9e62-1243327a4b2a" />
-
+![Web Pure Tools home page](https://github.com/user-attachments/assets/1597de43-e857-432d-9e62-1243327a4b2a)
 
 ## English
 
-### About the project
+### Practical tools without giving up your privacy
 
-Web Pure Tools is a growing collection of practical online utilities designed to make common document and content tasks simple and accessible.
+Web Pure Tools is a bilingual collection of utilities for PDFs, images, OCR, text, email and web accessibility.
 
-The product brings multiple tools together in a clean, bilingual interface, with no account required and no watermark added to generated files.
+The product was designed around a simple principle: **the user's information belongs to the user**. Files, passwords, pasted text, invoice details and signature data are processed locally in the browser instead of being sent to a processing server.
+
+- No file uploads for processing
+- No account or login required
+- No watermark
+- No tracking or advertising cookies
+- Theme and language preferences stay in the user's own browser
+- English and Brazilian Portuguese interface
+
+### How the privacy model works
+
+The tools run on the user's device after the page loads. Operations happen in browser memory, and the resulting file is downloaded directly by the user. There is no processing backend receiving or storing the document.
 
 ### Available tools
 
-#### PDF
+#### PDF tools
 
-- Compress PDF
-- Merge PDF
-- Split PDF
-- Protect PDF
-- Unlock PDF
-- Annotate PDF
-- Add watermark to PDF
-- Invoice generator
+Compress, merge, split, protect, unlock, annotate and watermark PDF files directly in the browser.
 
-#### Images and text
+![PDF tools catalog](https://github.com/user-attachments/assets/87113d2b-2615-4372-b8db-f9ca7b725f17)
 
-- Convert images to WebP
-- OCR — image to text
-- Compare text
+#### PDF compression
 
-#### Productivity and web
+Reduce image-heavy or scanned PDF files while keeping a safe fallback when the original file is already optimized.
 
-- Email signature generator
-- Accessibility checker
+![Compress PDF interface](https://github.com/user-attachments/assets/cdc832fd-a2ac-482e-b3ef-5063e2e9d1ec)
 
-### Product gallery
+### Featured tools
 
-#### Complete tool collection
+#### Invoice Generator
 
-<img width="2032" height="649" alt="clipboard" src="https://github.com/user-attachments/assets/87113d2b-2615-4372-b8db-f9ca7b725f17" />
+Create a professional invoice PDF for freelancers and international clients. It supports multiple currencies, taxes, discounts, due dates, payment instructions and an optional logo.
+
+An **invoice** is a professional billing document. It is not a Brazilian electronic tax invoice (*nota fiscal*) and does not replace country-specific tax or accounting requirements.
+
+Financial information, client details and payment instructions are processed only in the browser.
+
+<img width="2032" height="701" alt="clipboard" src="https://github.com/user-attachments/assets/ae4ce43c-776a-4912-89eb-b92f2107a6cd" />
 
 
-#### PDF compression interface
+#### Email Signature Generator
 
-<img width="2032" height="649" alt="clipboard" src="https://github.com/user-attachments/assets/cdc832fd-a2ac-482e-b3ef-5063e2e9d1ec" />
+Build a professional HTML email signature with a live preview, then copy and paste it into Gmail, Outlook/Hotmail or another email service. Personal and professional information stays in the browser.
+
+<img width="2032" height="701" alt="clipboard" src="https://github.com/user-attachments/assets/88e7f331-888f-49cc-be9c-1dcba7ca06f3" />
 
 
-### Project highlights
+#### Accessibility Checker — explained simply
 
-- English and Brazilian Portuguese interface
-- Responsive light and dark themes
-- Practical tools organized by category
-- No account required
-- No watermark
-- Designed for quick, everyday use
-- Accessible directly at [webpuretools.com](https://webpuretools.com)
+The Accessibility Checker helps identify barriers that may prevent people from using a web page, including blind, low-vision, color-blind and keyboard-only users.
+
+The user pastes page HTML or selects an HTML file, and the analysis runs locally in an isolated browser environment. It can detect issues such as:
+
+- Images without alternative text
+- Form fields without labels
+- Color contrast problems
+- Incorrect heading structure
+- Unclear links and ARIA issues
+
+It follows WCAG 2.1 guidelines. Automated checks are useful, but they do not replace a complete manual accessibility audit.
+
+### More tools
+
+- Convert images to WebP in batches
+- Extract text from images and scanned PDFs with OCR
+- Compare two versions of a text
 
 ### Repository purpose
 
-This repository is a product showcase only. It contains presentation material and public screenshots, but it does not contain the application's source code.
+This repository is a product showcase only. It contains public product information and screenshots, but it does not contain the application's source code.
 
 The Web Pure Tools source code is proprietary and maintained in a private repository.
 
@@ -71,52 +89,63 @@ The Web Pure Tools source code is proprietary and maintained in a private reposi
 
 ## Português
 
-### Sobre o projeto
+### Ferramentas práticas sem abrir mão da privacidade
 
-Web Pure Tools é uma coleção crescente de utilitários online criados para tornar tarefas comuns com documentos e conteúdo mais simples e acessíveis.
+Web Pure Tools é uma coleção bilíngue de utilitários para PDF, imagens, OCR, texto, e-mail e acessibilidade web.
 
-O produto reúne várias ferramentas em uma interface limpa e bilíngue, sem exigir cadastro e sem adicionar marca-d'água aos arquivos gerados.
+O produto foi criado a partir de um princípio simples: **as informações do usuário pertencem ao usuário**. Arquivos, senhas, textos colados, dados de cobrança e informações de assinatura são processados localmente no navegador, em vez de serem enviados para um servidor de processamento.
+
+- Nenhum arquivo é enviado para processamento
+- Não exige conta ou login
+- Não adiciona marca-d'água
+- Não usa cookies de rastreamento ou publicidade
+- Preferências de tema e idioma permanecem no próprio navegador
+- Interface em inglês e português do Brasil
+
+### Como funciona o modelo de privacidade
+
+As ferramentas rodam no dispositivo do usuário depois que a página é carregada. As operações acontecem na memória do navegador, e o resultado é baixado diretamente pelo usuário. Não existe um backend de processamento recebendo ou armazenando o documento.
 
 ### Ferramentas disponíveis
 
-#### PDF
+#### Ferramentas de PDF
 
-- Comprimir PDF
-- Juntar PDF
-- Separar PDF
-- Proteger PDF
-- Desbloquear PDF
-- Anotar PDF
-- Adicionar marca-d'água ao PDF
-- Gerador de invoice
+Comprima, junte, separe, proteja, desbloqueie, anote e aplique marcas-d'água em arquivos PDF diretamente no navegador.
 
-#### Imagens e texto
+#### Gerador de Invoice
 
-- Converter imagens para WebP
-- OCR — imagem para texto
-- Comparar textos
+Crie um documento profissional de cobrança em PDF para freelancers e clientes internacionais. A ferramenta oferece várias moedas, impostos, descontos, vencimento, instruções de pagamento e logotipo opcional.
 
-#### Produtividade e web
+Uma **invoice** é um documento profissional de cobrança. Ela não é uma nota fiscal eletrônica brasileira e não substitui as exigências fiscais ou contábeis de cada país.
 
-- Gerador de assinatura de e-mail
-- Verificador de acessibilidade
+Dados financeiros, informações do cliente e instruções de pagamento são processados somente no navegador.
 
-### Galeria do produto
+#### Gerador de Assinatura de E-mail
 
-As imagens acima apresentam a página inicial, a coleção de ferramentas e a interface de compressão de PDF.
+Crie uma assinatura HTML profissional com visualização em tempo real e depois copie e cole no Gmail, Outlook/Hotmail ou outro serviço de e-mail. As informações pessoais e profissionais permanecem no navegador.
 
-### Destaques do projeto
+#### Verificador de Acessibilidade — explicação simples
 
-- Interface em inglês e português do Brasil
-- Temas claro e escuro responsivos
-- Ferramentas práticas organizadas por categoria
-- Não exige cadastro
-- Não adiciona marca-d'água
-- Criado para tarefas rápidas do dia a dia
-- Acesso direto em [webpuretools.com](https://webpuretools.com)
+O Verificador de Acessibilidade ajuda a identificar barreiras que podem impedir o uso de uma página por pessoas cegas, com baixa visão, daltonismo ou que navegam somente pelo teclado.
+
+O usuário cola o HTML da página ou seleciona um arquivo HTML, e a análise acontece localmente em um ambiente isolado do navegador. A ferramenta pode identificar:
+
+- Imagens sem texto alternativo
+- Campos de formulário sem rótulos
+- Problemas de contraste de cores
+- Estrutura incorreta de títulos
+- Links pouco claros e problemas de ARIA
+
+A análise segue as diretrizes WCAG 2.1. Verificações automáticas são úteis, mas não substituem uma auditoria manual completa de acessibilidade.
+
+### Outras ferramentas
+
+- Converter imagens para WebP em lote
+- Extrair texto de imagens e PDFs escaneados com OCR
+- Comparar duas versões de um texto
 
 ### Objetivo deste repositório
 
-Este repositório serve apenas como apresentação pública do produto. Ele contém materiais de apresentação e capturas de telas públicas, mas não contém o código-fonte da aplicação.
+Este repositório serve apenas como apresentação do produto. Ele contém informações públicas e capturas de tela, mas não contém o código-fonte da aplicação.
 
 O código-fonte do Web Pure Tools é proprietário e mantido em um repositório privado.
