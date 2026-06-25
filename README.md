@@ -43,7 +43,14 @@ Reduce image-heavy or scanned PDF files while keeping a safe fallback when the o
 
 #### Invoice Generator
 
-Create a professional invoice PDF for freelancers and international clients. It supports multiple currencies, taxes, discounts, due dates, payment instructions and an optional logo.
+Create a professional invoice PDF for freelancers and international clients.
+
+- **Hours (services) or Products (qty) mode** — switch between billing by the hour and itemized product sales
+- **155 currencies** including USD, EUR, GBP, BRL, JPY and more
+- **7 payment methods**: Bank Transfer (IBAN/SWIFT), ACH, PayPal, Payoneer, Wise, Crypto and Custom
+- Taxes (excluded or tax-included), discounts, due dates, custom fields and an end message
+- Company logo and signature uploaded and stored locally
+- **Data persists without an account** — company details, logo and signature are saved in the browser via localStorage and IndexedDB, never on a server
 
 An **invoice** is a professional billing document. It is not a Brazilian electronic tax invoice (*nota fiscal*) and does not replace country-specific tax or accounting requirements.
 
@@ -114,7 +121,14 @@ Comprima, junte, separe, proteja, desbloqueie, anote e aplique marcas-d'água em
 
 #### Gerador de Invoice
 
-Crie um documento profissional de cobrança em PDF para freelancers e clientes internacionais. A ferramenta oferece várias moedas, impostos, descontos, vencimento, instruções de pagamento e logotipo opcional.
+Crie um documento profissional de cobrança em PDF para freelancers e clientes internacionais.
+
+- **Modo Horas (serviços) ou Produtos (qtd)** — alterne entre faturamento por hora e venda de produtos itemizados
+- **155 moedas** incluindo USD, EUR, GBP, BRL, JPY e outras
+- **7 métodos de pagamento**: Transferência Bancária (IBAN/SWIFT), ACH, PayPal, Payoneer, Wise, Cripto e Personalizado
+- Impostos (excluído ou incluído no preço), descontos, vencimento, campos personalizados e mensagem de encerramento
+- Logo e assinatura da empresa carregados e armazenados localmente
+- **Dados salvos sem conta** — informações da empresa, logo e assinatura ficam no navegador via localStorage e IndexedDB, nunca em servidor
 
 Uma **invoice** é um documento profissional de cobrança. Ela não é uma nota fiscal eletrônica brasileira e não substitui as exigências fiscais ou contábeis de cada país.
 
