@@ -56,7 +56,7 @@ An **invoice** is a professional billing document. It is not a Brazilian electro
 
 Financial information, client details and payment instructions are processed only in the browser.
 
-<img width="2032" height="701" alt="clipboard" src="https://github.com/user-attachments/assets/ae4ce43c-776a-4912-89eb-b92f2107a6cd" />
+<img alt="Invoice Generator interface" src="./assets/invoice-generator.png" />
 
 
 #### Email Signature Generator
